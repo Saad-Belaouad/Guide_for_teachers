@@ -63,7 +63,7 @@
 					</div>
 
 					<div class="container-login100-form-btn">
-						<button type="submit" class="login100-form-btn">
+						<button type="submit" class="login100-form-btn btn-danger">
                             {{ __('Connexion') }}
 
 						</button>

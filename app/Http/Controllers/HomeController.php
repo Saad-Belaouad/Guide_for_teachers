@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\User;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -26,5 +27,10 @@ class HomeController extends Controller
     {
         return view('auth.login');
     }
+    /*get information from users*/
+    //  public function get(){
+    //      return User::select('name')->get();/*we can add methode like just delete or update */
+    //  }
+
 
 }

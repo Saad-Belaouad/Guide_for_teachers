@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
@@ -21,3 +22,4 @@ Auth::routes(['verify'=>true]);
 Route::get('/home', 'HomeController@gethome')->name('home')->middleware('verified'); /* u can find it in middleware kernel */
 /*here we will add a middlware cause we need to verify first before go to dashboard */
 
+// Route::get('fillable','HomeController@get'); /*use it to check data */
