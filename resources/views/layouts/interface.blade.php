@@ -158,6 +158,30 @@
             <a href="" class="nav-link">
               <i class="nav-icon fas fa-copy"></i>
               <p>
+                  Gérer les classes
+              </p>
+                <i class="fas fa-angle-left right"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+
+              <li class="nav-item">
+                <a href="" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Ajout d'un classe </p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Mes classes</p>
+                </a>
+              </li>
+            </ul>
+          <li class="nav-item has-treeview">
+            <a href="" class="nav-link">
+              <i class="nav-icon fas fa-copy"></i>
+              <p>
                   Gérer les étudiants
               </p>
                 <i class="fas fa-angle-left right"></i>
