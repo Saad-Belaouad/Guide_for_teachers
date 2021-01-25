@@ -137,8 +137,7 @@
           </li>
           <li class="nav-item has-treeview">
             <a href="" class="nav-link">
-              <i class="nav-icon fas fa-copy"></i>
-              <p>
+                <i class="far fa-calendar-times nav-icon"></i>              <p>
                   Gérer les séances
               </p>
                 <i class="fas fa-angle-left right"></i>
@@ -156,8 +155,8 @@
           </li>
           <li class="nav-item has-treeview">
             <a href="" class="nav-link">
-              <i class="nav-icon fas fa-copy"></i>
-              <p>
+                <i class="fas fa-chalkboard nav-icon"></i>
+                <p>
                   Gérer les classes
               </p>
                 <i class="fas fa-angle-left right"></i>
@@ -180,8 +179,8 @@
             </ul>
           <li class="nav-item has-treeview">
             <a href="" class="nav-link">
-              <i class="nav-icon fas fa-copy"></i>
-              <p>
+                <i class="fas fa-user-graduate nav-icon"></i>
+                              <p>
                   Gérer les étudiants
               </p>
                 <i class="fas fa-angle-left right"></i>
@@ -206,9 +205,9 @@
 
         <li class="nav-item has-treeview">
             <a href="" class="nav-link">
-              <i class="nav-icon fas fa-copy"></i>
-              <p>
-                  Gérer l'absence
+                <i class="far fa-calendar-plus nav-icon"></i>
+                              <p>
+                  Gérer l'assiduité
               </p>
                 <i class="fas fa-angle-left right"></i>
               </p>
@@ -218,7 +217,7 @@
               <li class="nav-item">
                 <a href="" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Ajout d'absence </p>
+                  <p>Faire absence  </p>
                 </a>
               </li>
               <li class="nav-item">
